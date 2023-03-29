@@ -1,6 +1,6 @@
 wandb:
   _target_: pytorch_lightning.loggers.wandb.WandbLogger
-  entity: null
+  entity: stsan9
   offline: False
   id: null
   log_model: False
